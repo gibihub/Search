@@ -1,0 +1,10 @@
+C:\Users\GibiX\source\repos\Search\Search\bin\Debug\Search.exe.config
+C:\Users\GibiX\source\repos\Search\Search\bin\Debug\Search.exe
+C:\Users\GibiX\source\repos\Search\Search\bin\Debug\Search.pdb
+C:\Users\GibiX\source\repos\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\GibiX\source\repos\Search\Search\obj\Debug\Search.Form1.resources
+C:\Users\GibiX\source\repos\Search\Search\obj\Debug\Search.Properties.Resources.resources
+C:\Users\GibiX\source\repos\Search\Search\obj\Debug\Search.csproj.GenerateResource.cache
+C:\Users\GibiX\source\repos\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\GibiX\source\repos\Search\Search\obj\Debug\Search.exe
+C:\Users\GibiX\source\repos\Search\Search\obj\Debug\Search.pdb
